@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      "eslint-plugin-optimize-regex",
+      "/home/vf-root"
+    ]
+  ],
+  "_from": "eslint-plugin-optimize-regex@latest",
+  "_id": "eslint-plugin-optimize-regex@1.1.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/eslint-plugin-optimize-regex",
+  "_nodeVersion": "8.2.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/eslint-plugin-optimize-regex-1.1.4.tgz_1501579712061_0.5188209793996066"
+  },
+  "_npmUser": {
+    "email": "brainmaestro@outlook.com",
+    "name": "brainmaestro"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {
+    "nomnom": "1.8.1"
+  },
+  "_requested": {
+    "name": "eslint-plugin-optimize-regex",
+    "raw": "eslint-plugin-optimize-regex",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/eslint-plugin-optimize-regex/-/eslint-plugin-optimize-regex-1.1.4.tgz",
+  "_shasum": "6268b23e4f9eb75fbb92d9b7a2a70aac5687e198",
+  "_shrinkwrap": null,
+  "_spec": "eslint-plugin-optimize-regex",
+  "_where": "/home/vf-root",
+  "author": {
+    "name": "Ezinwa Okpoechi"
+  },
+  "bugs": {
+    "url": "https://github.com/BrainMaestro/eslint-plugin-optimize-regex/issues"
+  },
+  "dependencies": {
+    "regexp-tree": "0.0.52"
+  },
+  "description": "Optimize regex literals",
+  "devDependencies": {
+    "eslint": "~3.19.0",
+    "mocha": "^3.1.2"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-wPcFXAQqO6kGaHuFtOjx6NwIX1ETGdb+6WkjDSc6iq5OCm9c1M1Mb9ItMx6Dl4/67bNna/XrY7bTx/hSEELsnw==",
+    "shasum": "6268b23e4f9eb75fbb92d9b7a2a70aac5687e198",
+    "tarball": "https://registry.npmjs.org/eslint-plugin-optimize-regex/-/eslint-plugin-optimize-regex-1.1.4.tgz"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "gitHead": "2a9dfd9a3c1b13157270e9e230c89ce87e7fc15d",
+  "homepage": "https://github.com/BrainMaestro/eslint-plugin-optimize-regex#readme",
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslintplugin",
+    "regex",
+    "regex-optimizer"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "brainmaestro",
+      "email": "brainmaestro@outlook.com"
+    }
+  ],
+  "name": "eslint-plugin-optimize-regex",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrainMaestro/eslint-plugin-optimize-regex.git"
+  },
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "version": "1.1.4"
+}
